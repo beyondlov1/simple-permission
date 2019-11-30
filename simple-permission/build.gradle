@@ -1,0 +1,58 @@
+
+apply plugin: 'com.android.library'
+apply plugin: 'com.beyond.aspect.lib'
+
+android {
+    compileSdkVersion 29
+    buildToolsVersion "29.0.2"
+
+
+    defaultConfig {
+        minSdkVersion 21
+        targetSdkVersion 29
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+        consumerProguardFiles 'consumer-rules.pro'
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+
+}
+
+
+buildscript {
+    repositories {
+        jcenter()
+        mavenCentral()
+        google() // add repository
+    }
+    dependencies {
+        //noinspection GradleDependency
+        classpath 'com.android.tools.build:gradle:3.5.1'
+        classpath files('libs/permission-plugin-2-1.0-SNAPSHOT.jar')
+        // aspectJ
+        classpath 'org.aspectj:aspectjtools:1.8.9'
+        classpath 'org.aspectj:aspectjweaver:1.8.9'
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+//    implementation 'androidx.appcompat:appcompat:1.0.2'
+//    testImplementation 'junit:junit:4.12'
+//    androidTestImplementation 'androidx.test.ext:junit:1.1.0'
+//    androidTestImplementation 'androidx.test.espresso:espresso-core:3.1.1'
+
+    // aspectJ
+    implementation 'org.aspectj:aspectjrt:1.8.9'
+
+    //permission
+    implementation 'com.github.dfqin:grantor:2.5'
+}
