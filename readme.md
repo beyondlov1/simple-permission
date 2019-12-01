@@ -1,4 +1,4 @@
-# android 简单的动态权限申请模块
+# Android 简单的动态权限申请模块
 
 使用方法: 在需要权限的方法上加上注解@RequirePermission(注意不是android的@RequiresPermission)  
 方法参数中需有 Context 参数, 如果没有, 需要用 ApplicationHolder 设置一个默认的Context, 比如在 app 创建时设置.
