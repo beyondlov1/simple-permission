@@ -1,7 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="286f9b26-d3fc-48ef-85b8-136f82e7f6f2" name="Default Changelist" comment="" />
+    <list default="true" id="286f9b26-d3fc-48ef-85b8-136f82e7f6f2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../permission-plugin-app/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../permission/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../permission/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../permission/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../permission/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__com_android_support_appcompat_v7_23_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__com_android_support_support_annotations_23_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__com_android_support_support_v4_23_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__com_beyond_permission_plugin_app_1_0_SNAPSHOT_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__com_beyond_permission_plugin_lib_1_0_SNAPSHOT_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__org_codehaus_groovy_groovy_all_2_4_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-permission/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-permission/libs/permission-plugin-app-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-permission/libs/permission-plugin-lib-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../permission-plugin-app/.gradle/4.8/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../permission-plugin-app/.gradle/4.8/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../permission-plugin-app/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../permission-plugin-app/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../permission-plugin-app/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../permission-plugin-app/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../permission-plugin-app/.gradle/4.8/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../permission-plugin-app/.gradle/4.8/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../permission-plugin-app/.gradle/4.8/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../permission-plugin-app/.gradle/4.8/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../permission-plugin-app/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../permission-plugin-app/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../permission-plugin-app/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../permission-plugin-app/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../permission-plugin-app/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../permission-plugin-app/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../permission-plugin-app/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../permission-plugin-app/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../permission-plugin-app/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../permission-plugin-app/.idea/libraries/Gradle__aspectjrt_1_8_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../permission-plugin-app/.idea/libraries/Gradle__aspectjtools_1_8_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../permission-plugin-app/.idea/libraries/Gradle__aspectjweaver_1_8_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../permission-plugin-app/.idea/libraries/Gradle__groovy_all_2_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../permission-plugin-app/.idea/libraries/Gradle__groovy_all_2_4_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../permission-plugin-app/.idea/libraries/Gradle__hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../permission-plugin-app/.idea/libraries/Gradle__junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../permission-plugin-app/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../permission/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../permission-plugin-app/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../permission-plugin-app/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../permission-plugin-app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../permission-plugin-app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../permission-plugin-app/build/ivy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../permission-plugin-app/build/ivy.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../permission-plugin-app/build/libs/permission-plugin-2-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../permission-plugin-app/build/poms/pom-default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../permission-plugin-app/build/poms/pom-default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../permission-plugin-app/out/production/classes/com/beyond/plugin/MyPlugin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../permission-plugin-app/out/production/resources/META-INF/gradle-plugins/com.beyond.myplugin.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../permission-plugin-app/permission-plugin-2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../permission-plugin-app/permission-plugin-app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../permission-plugin-app/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../permission-plugin-app/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__aspectjrt_1_8_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__aspectjtools_1_8_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__aspectjweaver_1_8_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__groovy_all_2_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__groovy_all_2_4_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/permission-plugin-2-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/permission-plugin-2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/permission-plugin-lib.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-permission/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-permission/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../simple-permission/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-permission/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../simple-permission/.idea/caches/gradle_models.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_0_2_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_0_2_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_asynclayoutinflater_asynclayoutinflater_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_asynclayoutinflater_asynclayoutinflater_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_core_core_1_0_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_core_core_1_0_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_fragment_fragment_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_fragment_fragment_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_ui_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_ui_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_print_print_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_print_print_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_slidingpanelayout_slidingpanelayout_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_slidingpanelayout_slidingpanelayout_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_swiperefreshlayout_swiperefreshlayout_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_swiperefreshlayout_swiperefreshlayout_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_test_core_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_test_core_1_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_1_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_1_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_1_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_1_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_test_ext_junit_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_test_ext_junit_1_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_test_monitor_1_1_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_test_monitor_1_1_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_test_runner_1_1_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_test_runner_1_1_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_0_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_0_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__com_github_dfqin_grantor_2_5_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simple-permission/.idea/libraries/Gradle__com_github_dfqin_grantor_2_5_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-permission/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simple-permission/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-permission/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simple-permission/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-permission/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../simple-permission/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-permission/libs/permission-plugin-2-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../simple-permission/simple-permission.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../simple-permission/simple-permission.iml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -31,28 +136,22 @@
             <expand>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="permission-plugin-2" type="f1a62948:ProjectNode" />
+                <item name="permission-plugin-lib" type="f1a62948:ProjectNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="permission-plugin-2" type="f1a62948:ProjectNode" />
+                <item name="permission-plugin-lib" type="f1a62948:ProjectNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="permission-plugin-2" type="f1a62948:ProjectNode" />
+                <item name="permission-plugin-lib" type="f1a62948:ProjectNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
                 <item name="build" type="c8890929:TasksNode$1" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="permission-plugin-2" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="build setup" type="c8890929:TasksNode$1" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="permission-plugin-2" type="f1a62948:ProjectNode" />
+                <item name="permission-plugin-lib" type="f1a62948:ProjectNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
                 <item name="upload" type="c8890929:TasksNode$1" />
               </path>
@@ -63,74 +162,60 @@
       </state>
     </system>
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-293877259">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="gradle" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Groovy" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gradle" value="1" />
+          <entry key="groovy" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Groovy" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="567">
-              <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+            <state relative-caret-position="420">
+              <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/groovy/com/beyond/plugin/MyAspectJPluginLib.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="339">
+              <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
               <folding>
                 <element signature="e#27#55#0" expanded="true" />
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/AndroidStudio/GradleRepository/caches/4.8/generated-gradle-jars/gradle-api-4.8.jar!/org/gradle/api/Project.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="48" column="17" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/gradle-plugins/com.beyond.aspect.lib.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="51" selection-start-column="51" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/settings.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/gradle.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -140,15 +225,337 @@
       <find>applicatio</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="D:\gradle\gradle-4.8-bin_2\gradle-4.8" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4.8" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="permission-plugin-lib" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="permission-plugin-lib" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'permission-plugin-lib'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'permission-plugin-lib'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'permission-plugin-lib'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'permission-plugin-lib'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles the test Groovy source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestGroovy" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'permission-plugin-lib'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles the main Groovy source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileGroovy" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'permission-plugin-lib'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Groovydoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="groovydoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'permission-plugin-lib'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'permission-plugin-lib'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the 'archives' artifacts into the local Maven repository." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="install" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Uploads all artifacts belonging to configuration ':archives'" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="uploadArchives" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'permission-plugin-lib'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4725374884846" />
+        <entry key="$PROJECT_DIR$/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="873323084" />
+        <entry key="$PROJECT_DIR$/settings.gradle" value="238683816" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="permission-plugin-lib" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/ant-1.9.11.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/ant-launcher-1.9.11.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/gradle-base-services-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/gradle-base-services-groovy-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/gradle-build-cache-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/gradle-build-option-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/gradle-cli-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/gradle-core-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/gradle-core-api-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/gradle-docs-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/gradle-installation-beacon-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/gradle-jvm-services-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/gradle-kotlin-dsl-0.17.5.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/gradle-kotlin-dsl-provider-plugins-0.17.5.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/gradle-kotlin-dsl-provider-spi-0.17.5.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/gradle-kotlin-dsl-tooling-builders-0.17.5.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/gradle-kotlin-dsl-tooling-models-0.17.5.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/gradle-launcher-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/gradle-logging-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/gradle-messaging-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/gradle-model-core-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/gradle-model-groovy-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/gradle-native-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/gradle-persistent-cache-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/gradle-process-services-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/gradle-resources-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/gradle-runtime-api-info-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/gradle-tooling-api-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/gradle-wrapper-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/groovy-all-2.4.12.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/plugins/gradle-announce-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/plugins/gradle-antlr-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/plugins/gradle-build-cache-http-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/plugins/gradle-build-comparison-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/plugins/gradle-build-init-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/plugins/gradle-code-quality-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/plugins/gradle-composite-builds-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/plugins/gradle-dependency-management-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/plugins/gradle-diagnostics-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/plugins/gradle-ear-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/plugins/gradle-ide-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/plugins/gradle-ide-native-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/plugins/gradle-ide-play-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/plugins/gradle-ivy-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/plugins/gradle-jacoco-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/plugins/gradle-javascript-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/plugins/gradle-language-groovy-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/plugins/gradle-language-java-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/plugins/gradle-language-jvm-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/plugins/gradle-language-native-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/plugins/gradle-language-scala-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/plugins/gradle-maven-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/plugins/gradle-osgi-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/plugins/gradle-platform-base-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/plugins/gradle-platform-jvm-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/plugins/gradle-platform-native-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/plugins/gradle-platform-play-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/plugins/gradle-plugin-development-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/plugins/gradle-plugin-use-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/plugins/gradle-plugins-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/plugins/gradle-publish-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/plugins/gradle-reporting-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/plugins/gradle-resources-gcs-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/plugins/gradle-resources-http-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/plugins/gradle-resources-s3-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/plugins/gradle-resources-sftp-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/plugins/gradle-scala-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/plugins/gradle-signing-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/plugins/gradle-test-kit-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/plugins/gradle-testing-base-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/plugins/gradle-testing-junit-platform-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/plugins/gradle-testing-jvm-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/plugins/gradle-testing-native-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/plugins/gradle-tooling-api-builders-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/plugins/gradle-version-control-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/plugins/gradle-workers-4.8.jar" />
+                  <option value="D:/gradle/gradle-4.8-bin_2/gradle-4.8/lib/plugins/ivy-2.2.0.jar" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/groovy/MyPlugin.groovy" />
         <option value="$PROJECT_DIR$/src/main/resources/META-INF/gradle-plugins/com.beyond.myplugin.properties" />
-        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/groovy/com/beyond/plugin/MyPlugin.groovy" />
         <option value="$PROJECT_DIR$/src/main/groovy/com/beyond/plugin/MyPluginLib.groovy" />
         <option value="$PROJECT_DIR$/src/main/groovy/com/beyond/plugin/MyAspectJPluginLib.groovy" />
+        <option value="$PROJECT_DIR$/settings.gradle" />
+        <option value="$PROJECT_DIR$/build.gradle" />
       </list>
     </option>
   </component>
@@ -178,14 +585,70 @@
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="permission-plugin-lib" type="b2602c69:ProjectViewProjectNode" />
+              <item name="permission-plugin-lib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="permission-plugin-lib" type="b2602c69:ProjectViewProjectNode" />
+              <item name="permission-plugin-lib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="permission-plugin-lib" type="b2602c69:ProjectViewProjectNode" />
+              <item name="permission-plugin-lib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="permission-plugin-lib" type="b2602c69:ProjectViewProjectNode" />
+              <item name="permission-plugin-lib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="groovy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="permission-plugin-lib" type="b2602c69:ProjectViewProjectNode" />
+              <item name="permission-plugin-lib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="groovy" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="permission-plugin-lib" type="b2602c69:ProjectViewProjectNode" />
+              <item name="permission-plugin-lib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="groovy" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="beyond" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="permission-plugin-lib" type="b2602c69:ProjectViewProjectNode" />
+              <item name="permission-plugin-lib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="groovy" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="beyond" type="462c0819:PsiDirectoryNode" />
+              <item name="plugin" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
       <pane id="AndroidView">
         <subPane>
           <expand>
@@ -246,7 +709,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575121181229" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575128474511" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -269,29 +732,13 @@
     </option>
   </component>
   <component name="RunManager" selected="Gradle.permission-plugin-2 [jar]">
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
-      <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="Applet">
+    <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -319,7 +766,6 @@
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
     <configuration name="permission-plugin-2 [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
@@ -338,7 +784,6 @@
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
     <configuration name="permission-plugin-2 [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
@@ -357,7 +802,6 @@
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
     <configuration name="permission-plugin-2 [uploadArchives]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
@@ -376,7 +820,6 @@
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
     <configuration name="permission-plugin-lib [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
@@ -395,14 +838,27 @@
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration default="true" type="TestNG">
-      <option name="TEST_OBJECT" value="CLASS" />
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -436,6 +892,8 @@
       <updated>1574781697813</updated>
       <workItem from="1574781701316" duration="167000" />
       <workItem from="1574781890125" duration="14283000" />
+      <workItem from="1575123170106" duration="4084000" />
+      <workItem from="1575128993246" duration="2549000" />
     </task>
     <servers />
   </component>
@@ -445,23 +903,23 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14450000" />
+    <option name="totallyTimeSpent" value="21083000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Build Variants" side_tool="true" />
-      <window_info id="Resources Explorer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25643778" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26172706" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="Capture Tool" order="6" />
+      <window_info id="Build Variants" order="7" side_tool="true" />
+      <window_info id="Resources Explorer" order="8" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.3288889" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.32790446" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -470,7 +928,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50053304" side_tool="true" weight="0.329718" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -479,7 +937,7 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Mybatis datasource" order="5" show_stripe_button="false" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="6" weight="0.32995737" />
-      <window_info anchor="right" id="Gradle" order="7" visible="true" weight="0.3299356" />
+      <window_info anchor="right" id="Gradle" order="7" visible="true" weight="0.32942432" />
       <window_info anchor="right" id="Database" order="8" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info anchor="right" id="Theme Preview" order="10" />
@@ -488,17 +946,13 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/AndroidStudio/GradleRepository/caches/4.8/generated-gradle-jars/gradle-api-4.8.jar!/org/gradle/api/Project.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
+        <state relative-caret-position="180">
           <caret line="48" column="17" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
         </state>
       </provider>
@@ -507,13 +961,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="51" selection-start-column="51" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
@@ -529,13 +976,27 @@
     <entry file="file://$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/groovy/com/beyond/plugin/MyAspectJPluginLib.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="339">
+          <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
           <folding>
             <element signature="e#27#55#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
         </state>
       </provider>
     </entry>

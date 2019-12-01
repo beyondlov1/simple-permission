@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:m="http://ant.apache.org/ivy/maven">
-  <info organisation="com.beyond" module="permission-plugin-2" revision="1.0-SNAPSHOT" status="integration" publication="20191127221020"/>
+  <info organisation="com.beyond" module="permission-plugin-app" revision="1.0-SNAPSHOT" status="integration" publication="20191201000116"/>
   <configurations>
     <conf name="annotationProcessor" visibility="private"/>
     <conf name="apiElements" visibility="private" extends="runtime"/>
@@ -24,10 +24,12 @@
     <conf name="testRuntimeOnly" visibility="private" extends="runtimeOnly"/>
   </configurations>
   <publications>
-    <artifact name="permission-plugin-2" type="jar" ext="jar" conf="apiElements,archives,runtime,runtimeElements"/>
+    <artifact name="permission-plugin-app" type="jar" ext="jar" conf="apiElements,archives,runtime,runtimeElements"/>
   </publications>
   <dependencies>
     <dependency org="org.codehaus.groovy" name="groovy-all" rev="2.4.12" conf="compile-&gt;default"/>
+    <dependency org="org.aspectj" name="aspectjtools" rev="1.8.9" conf="implementation-&gt;default"/>
+    <dependency org="org.aspectj" name="aspectjweaver" rev="1.8.9" conf="implementation-&gt;default"/>
     <dependency org="junit" name="junit" rev="4.12" conf="testCompile-&gt;default"/>
   </dependencies>
 </ivy-module>
